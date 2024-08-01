@@ -1,5 +1,8 @@
-# tbdm-net
-Official implementation of TBDM-Net
+# TBDM-Net
+Official implementation of TBDM-Net:
+
+>Vlad Striletchi, Cosmin Striletchi, Adriana Stan, 'TBDM-Net: Bidirectional Dense Networks with Gender Information for Speech Emotion Recognition', Proceedings of IEEE International Workshop on Machine Learning for Signal Processing (MLSP), London, 2024'
+
 
 ### Data preparation
 MFCC extraction is done in a similar manner to [TIM-Net](https://github.com/Jiaxin-Ye/TIM-Net_SER).
